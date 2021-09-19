@@ -1,6 +1,6 @@
 # See The Girl: The Policy Center - DataDive Event 
 
-This a work done as part of the DataDive Event, September 17-18, 2021, Shining a light on community to advance a nation. On this day, project managers, co-volunteers and volunteers (like me) gathered to discuss, understand and publish information with the purpose of helping the Policy Center to extract easily information about the correlated variables and their impact in education, economics and arrests at Florida Counties.
+This is a work done as part of the DataDive Event, September 17-18, 2021, Shining a light on community to advance a nation. On this day, project managers, co-volunteers and volunteers (like me) gathered to discuss, understand and publish information with the purpose of helping the Policy Center to extract easily information about the correlated variables and their impact in education, economics and arrests at Florida Counties, USA.
 
 Here, I dived into some of the datasets to better understand them and be able to deliver a map with correlated information about arrests and disciplined students. You'll be able to see a entity relationship diagram (ERD) to help you navigate to the tables and what they became.
 
