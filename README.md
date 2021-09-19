@@ -4,6 +4,8 @@ This a work done as part of the DataDive Event, September 17-18, 2021, Shining a
 
 Here, I dived into some of the datasets to better understand them and be able to deliver a map with correlated information about arrests and disciplined students. You'll be able to see a entity relationship diagram (ERD) to help you navigate to the tables and what they became.
 
+<img src="https://github.com/datakind/Sept21-see-the-girl/blob/main/img_ERD.png">
+
 Unfortunately, I couldn't publish the report on web, because of the administrative or pro limitation, but feel free to download the power bi report at any time. 
 
 The work done on this saturday was:
@@ -15,3 +17,5 @@ The work done on this saturday was:
 * Plotted some variables into visuals and correlated arrests, commitments, ethnicity and school disciplines.
 
 As a result of this work, you'll be able to see that the majority of the girls arrests in all the counties are originated from black ethnic group (2019-2020 dataset) and that the counties with bigger percentage of school disciplines are also the ones in the top of the black arrests and commitments (dataset 2018-2019). But there's a lot of analysis in need to get the assertive results.
+
+<img src="https://github.com/datakind/Sept21-see-the-girl/blob/main/img_power_bi_see_the_girl.png">
